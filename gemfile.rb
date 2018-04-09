@@ -1,2 +1,3 @@
 #Gemfile
 
+gem "discordrb"
